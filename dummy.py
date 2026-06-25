@@ -1,1 +1,2 @@
 
+print("Somthing simpl LE")
